@@ -26,7 +26,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     
     # The welcome message text
     welcome_text = (
-        'Welcome to our Customer Support Demo!\n\n'
+        'Welcome to PiyamTravel Customer support!\n\n'
         'I am a bot assistant. Please choose an option below to get started.'
     )
     
